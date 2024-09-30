@@ -1,5 +1,23 @@
-#Student Advisor Chatbot (Mentor Bot)
-This repository contains the code and resources for the Student Advisor Chatbot, an AI-driven tool designed to provide personalized academic advice to students based on their performance data. It leverages OpenAI's GPT models, LangChain, and Panel to create an interactive chatbot that offers tailored advice depending on a student's overall academic performance and subject-specific scores.
+# **Student Advisor Chatbot**
+
+This repository contains the code and resources for the **Student Advisor Chatbot**, an AI-driven tool designed to provide personalized academic advice to students based on their performance data. It leverages **OpenAI's GPT models**, **LangChain**, and **Panel** to create an interactive chatbot that offers tailored advice depending on a student's overall academic performance and subject-specific scores.
+
+## **Features**
+- The chatbot uses **LangChain's** `AgentExecutor` and `ChatOpenAI` to deliver personalized feedback and academic guidance.
+- Provides different types of advice based on the student's performance category (e.g., basic support for students scoring under 40%, advanced recommendations for high performers).
+- Fetches student performance data from JSON files and dynamically adjusts advice based on scores.
+- The chatbot interface is built with **Panel**, offering a simple and interactive chat experience.
+
+## **Project Structure**
+```bash
+.
+├── student_advisor_chatbot.ipynb   # Main Jupyter notebook running the chatbot
+├── student_advisor.py              # Python script version of the chatbot
+├── student3.json                   # Example student data file (more in the same format)
+├── student_data/                   # Folder containing multiple student JSON data files
+├── requirements.txt                # Python dependencies for the project
+├── README.md                       # Project documentation
+
 
 
 ##Features
