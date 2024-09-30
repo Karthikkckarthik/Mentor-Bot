@@ -8,18 +8,6 @@ This repository contains the code and resources for the **Student Advisor Chatbo
 - Fetches student performance data from JSON files and dynamically adjusts advice based on scores.
 - The chatbot interface is built with **Panel**, offering a simple and interactive chat experience.
 
-## **Project Structure**
-```bash
-.
-├── student_advisor_chatbot.ipynb   # Main Jupyter notebook running the chatbot
-├── student_advisor.py              # Python script version of the chatbot
-├── student3.json                   # Example student data file (more in the same format)
-├── student_data/                   # Folder containing multiple student JSON data files
-├── requirements.txt                # Python dependencies for the project
-├── README.md                       # Project documentation
-
-
-
 
 ## **Technologies Used**
 - **LangChain**: To create a chain of prompts and manage tools for interacting with the student data.
@@ -39,4 +27,19 @@ For any questions, feel free to reach out at:
 
 - **Email**: karthikkckarthik02@gmail.com
 - **LinkedIn**: [Karthik K C](https://www.linkedin.com/in/karthik-k-c-695540209/)
+
+
+
+## **Project Structure**
+```bash
+.
+├── student_advisor_chatbot.ipynb   # Main Jupyter notebook running the chatbot
+├── student_advisor.py              # Python script version of the chatbot
+├── student3.json                   # Example student data file (more in the same format)
+├── student_data/                   # Folder containing multiple student JSON data files
+├── requirements.txt                # Python dependencies for the project
+├── README.md                       # Project documentation
+
+bash```
+
 
