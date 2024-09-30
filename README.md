@@ -40,6 +40,6 @@ For any questions, feel free to reach out at:
 ├── requirements.txt                # Python dependencies for the project
 ├── README.md                       # Project documentation
 
-bash```
+
 
 
