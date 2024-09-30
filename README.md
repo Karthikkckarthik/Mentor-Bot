@@ -20,27 +20,23 @@ This repository contains the code and resources for the **Student Advisor Chatbo
 
 
 
-##Features
-The chatbot uses LangChain's AgentExecutor and ChatOpenAI to deliver personalized feedback and academic guidance.
-Provides different types of advice based on the student's performance category (e.g., basic support for students scoring under 40%, advanced recommendations for high performers).
-Fetches student performance data from JSON files and dynamically adjusts advice based on scores.
-The chatbot interface is built with Panel, offering a simple and interactive chat experience.
 
-##Technologies Used
-LangChain: To create a chain of prompts and manage tools for interacting with the student data.
-OpenAI GPT API: For generating responses and providing advice based on student performance.
-Panel: For creating a user-friendly dashboard to interact with the chatbot.
-Python: Main programming language used for logic and interaction.
-JSON: Data format for student information.
+## **Technologies Used**
+- **LangChain**: To create a chain of prompts and manage tools for interacting with the student data.
+- **OpenAI GPT API**: For generating responses and providing advice based on student performance.
+- **Panel**: For creating a user-friendly dashboard to interact with the chatbot.
+- **Python**: Main programming language used for logic and interaction.
+- **JSON**: Data format for student information.
 
-Contributing
+## **Contributing**
 Feel free to open an issue or submit a pull request if you have suggestions or improvements for this project.
 
-License
-This project is licensed under the MIT License.
+## **License**
+This project is licensed under the **MIT License**.
 
-###Contact
+## **Contact**
 For any questions, feel free to reach out at:
 
-Email: karthikkckarthik02@gmail.com
-LinkedIn: Karthik K C
+- **Email**: karthikkckarthik02@gmail.com
+- **LinkedIn**: [Karthik K C](https://www.linkedin.com/in/karthik-k-c-695540209/)
+
