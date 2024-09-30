@@ -1,0 +1,67 @@
+{
+    "student_persona": {
+        "student_id": "234567",
+        "name": "Ishaan",
+        "class": "11th Grade",
+        "exam_type": "NEET",
+        "overall_percentage": 30
+    },
+    "test_scores": {
+        "overall_score": "90 out of 300",
+        "test_percentage": "30%",
+        "total_questions": 100,
+        "correct_answers": 20,
+        "incorrect_answers": 50,
+        "unattempted_questions": 30
+    },
+    "subject_scores_physics": {
+        "score": "30 out of 100",
+        "total_questions": 30,
+        "correct_answers": 10,
+        "incorrect_answers": 15,
+        "unattempted_questions": 5,
+        "topics_struggled": ["Magnetism", "Optics"],
+        "topics_mastered": ["Laws of Motion"],
+        "time_spent_minutes": 30,
+        "physics_attendance": {
+            "total_classes": 40,
+            "classes_attended": 18,
+            "attendance_percentage": "45%"
+        }
+    },
+    "subject_scores_chemistry": {
+        "score": "35 out of 100",
+        "total_questions": 25,
+        "correct_answers": 7,
+        "incorrect_answers": 13,
+        "unattempted_questions": 5,
+        "topics_struggled": ["Chemical Kinetics"],
+        "topics_mastered": ["Structure of Atom"],
+        "time_spent_minutes": 40,
+        "chemistry_attendance": {
+            "total_classes": 35,
+            "classes_attended": 15,
+            "attendance_percentage": "42.8%"
+        }
+    },
+    "subject_scores_biology": {
+        "score": "25 out of 100",
+        "total_questions": 15,
+        "correct_answers": 3,
+        "incorrect_answers": 10,
+        "unattempted_questions": 2,
+        "topics_struggled": ["Plant Physiology"],
+        "topics_mastered": ["Human Physiology"],
+        "time_spent_minutes": 35,
+        "biology_attendance": {
+            "total_classes": 25,
+            "classes_attended": 7,
+            "attendance_percentage": "28%"
+        }
+    },
+    "overall_attendance": {
+        "total_classes": 100,
+        "classes_attended": 40,
+        "attendance_percentage": "40%"
+    }
+}
